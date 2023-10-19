@@ -1,2 +1,2 @@
 # CircuitsMadeEasy
-WIP. Development will continue in December.
+WIP -- Development will continue in December.
