@@ -1,2 +1,6 @@
 # CircuitCheatSheet
-WIP -- Development will continue in December.
+
+To begin:
+1: Download 'Node.js' & 'npm' (https://nodejs.org/en)
+2: cd /circuit-frontend
+3: npm start
