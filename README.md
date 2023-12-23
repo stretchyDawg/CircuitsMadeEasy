@@ -5,3 +5,5 @@ To begin:\
 2: cd /circuit-frontend\
 3: npm install\
 4: npm start\
+
+....i think (this is all still a work in progress lol)
